@@ -1,9 +1,11 @@
 # Kraft Extra
 
+<img align="right" src="Artwork/head_logo.gif">
+
 Dieses Repository enthält einiges an Material, das über die Jahre zusammengekommen 
 ist und das [Source Repository](https://github.com/dragotin/kraft) nicht auffüllen soll.
 
-Für den echten Kraft Fan wird sich das eine oder andere kuriose finden ;-)
+Für den echten Kraft Fan wird sich das eine oder andere Kuriose finden ;-)
 
 Vielleicht inspiriert es ja zu eigenen Kreationen von Dingen um Kraft wie T-Shirts, Tassen,
 Lastwagen oder Wallpapers, ich würde mich über Pull Requests freuen.
